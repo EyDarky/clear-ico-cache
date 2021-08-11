@@ -1,2 +1,2 @@
 # clear-ico-cache
- A script to clear the icon cache of Windows 10 or 8.1
+ Warning! Do NOT run the Script on Windows 8.1 or lower. Otherwise problems can occur.
